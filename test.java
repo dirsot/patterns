@@ -10,7 +10,7 @@ public class test {
 		array[0] = "Lorem ipsum";
 		System.out.println(array[0]);
 		List<Object> list = new ArrayList<Long>();
-		list.add("Lorem ipsum");
+		list.add("jest ok");
 	}
 
 }
