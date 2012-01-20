@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,7 +9,7 @@ public class test {
 		array[0] = "Lorem ipsum";
 		System.out.println(array[0]);
 		List<Object> list = new ArrayList<Long>();
-		list.add("jest ok");
+		list.add("jest ok   a a a ");
 	}
 
 }
