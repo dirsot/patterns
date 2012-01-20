@@ -1,0 +1,17 @@
+<!-- Indices written at Tue, 3 Jan 2012 10:10:05 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 5 times in query history -->
+    <datastore-index kind="news" ancestor="false" source="auto">
+        <property name="Nw_active" direction="asc"/>
+        <property name="Nw_date" direction="desc"/>
+    </datastore-index>
+
+    <!-- Used 10 times in query history -->
+    <datastore-index kind="deals" ancestor="false" source="auto">
+        <property name="Dl_userName" direction="asc"/>
+        <property name="Dl_dateAdded" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>

@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<countrydata>
+
+<state id="default_color">
+	<color>9999ff</color>
+</state>
+<state id="background_color">
+	<color>333399</color>
+</state>
+<state id="outline_color">
+	<color>6666cc</color>
+</state>
+
+<state id="default_point">
+	<color>ffff00</color>
+	<size>5</size>
+</state>
+
+<state id="scale_points">
+	<data>50</data>
+</state>
+
+
+
+
+<state id="point">
+<name>NETHERLANDS</name>
+<loc>52,6</loc>
+<url>./tabele.jsp?kraj=16</url>
+<hover> Eredivisie</hover>
+</state>
+<state id="point">
+<name>NETHERLANDS</name>
+<loc>52.3,5.5</loc>
+<url>./tabele.jsp?kraj=91</url>
+<hover> Jupiler League</hover>
+</state>
+
+<state id="point">
+<name>TURKEY</name>
+<loc>57.5460752705,21.1200524719</loc>
+<url>./tabele.jsp?kraj=17</url>
+<hover> Super Lig</hover>
+</state>
+
+
+
+<state id="point">
+<name>PORTUGAL</name>
+<loc>38.4,-7.5</loc>
+<url>./tabele.jsp?kraj=68</url>
+<hover> Liga Sagres</hover>
+</state>
+<state id="point">
+<name>PORTUGAL</name>
+<loc>40.4,-7.5</loc>
+<url>./tabele.jsp?kraj=1274</url>
+<hover> Liga de Honra</hover>
+</state>
+
+
+
+
+<state id="point">
+<name>ENGLAND</name>
+<loc>51,0</loc>
+<url>./tabele.jsp?kraj=206</url>
+<hover> League Two</hover>
+</state>
+<state id="point">
+<name>ENGLAND</name>
+<loc>53,0</loc>
+<url>./tabele.jsp?kraj=205</url>
+<hover> League One</hover>
+</state>
+<state id="point">
+<name>ENGLAND</name>
+<loc>52,-1</loc>
+<url>./tabele.jsp?kraj=74</url>
+<hover> Blue Square Premier</hover>
+</state>
+<state id="point">
+<name>ENGLAND</name>
+<loc>51,-3</loc>
+<url>./tabele.jsp?kraj=15</url>
+<hover> Barclays Premiership</hover>
+</state>
+<state id="point">
+<name>ENGLAND</name>
+<loc>51,-1</loc>
+<url>./tabele.jsp?kraj=72</url>
+<hover> Championship</hover>
+</state>
+
+<state id="point">
+<name>SWEDEN</name>
+<loc>59,16</loc>
+<url>./tabele.jsp?kraj=214</url>
+<hover> Allsvenskan</hover>
+</state>
+<state id="point">
+<name>SWEDEN</name>
+<loc>61,16</loc>
+<url>./tabele.jsp?kraj=97</url>
+<hover> Superettan</hover>
+</state>
+<state id="point">
+<name>ITALY</name>
+<loc>43,13</loc>
+<url>./tabele.jsp?kraj=70</url>
+<hover> Serie B</hover>
+</state>
+
+
+
+<state id="point">
+<name>SCOTLAND</name>
+<loc>56.9,-2.9</loc>
+<url>./tabele.jsp?kraj=77</url>
+<hover> Division 1</hover>
+</state>
+<state id="point">
+<name>SCOTLAND</name>
+<loc>56.9,-4</loc>
+<url>./tabele.jsp?kraj=12</url>
+<hover> Premier League</hover>
+</state>
+
+<state id="point">
+<name>GERMANY</name>
+<loc>51.00000,9.00</loc>
+<url>./tabele.jsp?kraj=87</url>
+<hover> Regionalliga Sud</hover>
+</state>
+<state id="point">
+<name>GERMANY</name>
+<loc>48.00000,9.00</loc>
+<url>./tabele.jsp?kraj=86</url>
+<hover> Regionalliga Nord</hover>
+</state>
+<state id="point">
+<name>GERMANY</name>
+<loc>50.00000,11.00</loc>
+<url>./tabele.jsp?kraj=71</url>
+<hover> 2. Bundesliga</hover>
+</state>
+<state id="point">
+<name>GERMANY</name>
+<loc>49.00000,9.00</loc>
+<url>./tabele.jsp?kraj=11</url>
+<hover> Bundesliga</hover>
+</state>
+
+
+
+
+
+<state id="point">
+<name>SWITZERLAND</name>
+<loc>46,7.2</loc>
+<url>./tabele.jsp?kraj=100</url>
+<hover> Challenge League</hover>
+</state>
+<state id="point">
+<name>SWITZERLAND</name>
+<loc>46.7593379225,7.3</loc>
+<url>./tabele.jsp?kraj=69</url>
+<hover> Super League</hover>
+</state>
+
+
+<state id="point">
+<name>IRELAND</name>
+<loc>53.2,-6.35</loc>
+<url>./tabele.jsp?kraj=67</url>
+<hover> Premier Division</hover>
+</state>
+<state id="point">
+<name>IRELAND</name>
+<loc>53.2,-6.35</loc>
+<url>./tabele.jsp?kraj=918</url>
+<hover> 1 division</hover>
+</state>
+<state id="point">
+<name>IRELAND</name>
+<loc>53.4,-6.85</loc>
+<url>./tabele.jsp?kraj=1103</url>
+<hover> Premiership</hover>
+</state>
+
+<state id="point">
+<name>LATVIA</name>
+<loc>56.50,24</loc>
+<url>./tabele.jsp?kraj=915</url>
+<hover> Virsliga</hover>
+</state>
+
+<state id="point">
+<name>SPAIN</name>
+<loc>40,-3</loc>
+<url>./tabele.jsp?kraj=14</url>
+<hover> Primera Division</hover>
+</state>
+<state id="point">
+<name>SPAIN</name>
+<loc>41,-4</loc>
+<url>./tabele.jsp?kraj=73</url>
+<hover> Liga Adelante</hover>
+</state>
+
+<state id="point">
+<name>WALES</name>
+<loc>51,-3</loc>
+<url>./tabele.jsp?kraj=903</url>
+<hover> Premier League</hover>
+</state>
+
+<state id="point">
+<name>BELGIUM</name>
+<loc>50.50,4</loc>
+<url>./tabele.jsp?kraj=63</url>
+<hover> Jupiler League</hover>
+</state>
+<state id="point">
+<name>BELGIUM</name>
+<loc>50.40,4.1</loc>
+<url>./tabele.jsp?kraj=753</url>
+<hover> EXQI League</hover>
+</state>
+<state id="point">
+<name>AUSTRIA</name>
+<loc>48,16</loc>
+<url>./tabele.jsp?kraj=98</url>
+<hover> ADEG Erste Liga</hover>
+</state>
+
+<state id="point">
+<name>POLAND</name>
+<loc>52,21</loc>
+<url>./tabele.jsp?kraj=66</url>
+<hover>  Orange Ekstraklasa</hover>
+</state>
+<state id="point">
+<name>POLAND</name>
+<loc>53,21</loc>
+<url>./tabele.jsp?kraj=743</url>
+<hover> I Liga</hover>
+</state>
+<state id="point">
+<name>FINLAND</name>
+<loc>60,24</loc>
+<url>./tabele.jsp?kraj=211</url>
+<hover> Veikkausliiga</hover>
+</state>
+<state id="point">
+<name>FINLAND</name>
+<loc>62,24.3</loc>
+<url>./tabele.jsp?kraj=917</url>
+<hover> Ykkonen</hover>
+</state>
+<state id="point">
+<name>DENMARK</name>
+<loc>55,12</loc>
+<url>./tabele.jsp?kraj=94</url>
+<hover> Viasat Sport Divisionen</hover>
+</state>
+<state id="point">
+<name>DENMARK</name>
+<loc>54.3,12</loc>
+<url>./tabele.jsp?kraj=210</url>
+<hover> SAS Ligaen</hover>
+</state>
+<state id="point">
+<name>UKRAINE</name>
+<loc>50,30</loc>
+<url>./tabele.jsp?kraj=126</url>
+<hover> Premier League</hover>
+</state>
+<state id="point">
+<name>UKRAINE</name>
+<loc>51,34</loc>
+<url>./tabele.jsp?kraj=1709</url>
+<hover> Persha Liga</hover>
+</state>
+
+<state id="point">
+<name>NORWAY</name>
+<loc>59,10</loc>
+<url>./tabele.jsp?kraj=95</url>
+<hover> Adeccoligaen</hover>
+</state>
+<state id="point">
+<name>NORWAY</name>
+<loc>60,10</loc>
+<url>./tabele.jsp?kraj=213</url>
+<hover> Tippeligaen</hover>
+</state>
+
+
+
+
+
+
+
+<state id="point">
+<name>SLOVAKIA</name>
+<loc>48,17</loc>
+<url>./tabele.jsp?kraj=202</url>
+<hover> Super Liga</hover>
+</state> 
+<state id="point">
+<name>SLOVENIA</name>
+<loc>46,15</loc>
+<url>./tabele.jsp?kraj=203</url>
+<hover> PrvaLiga Telekom</hover>
+</state>
+
+
+<state id="point">
+<name>FRANCE</name>
+<loc>55.9328436994,22.8255396747</loc>
+<url>./tabele.jsp?kraj=10</url>
+<hover> Ligue 1</hover>
+</state>
+
+
+<state id="point">
+<name>CROATIA</name>
+<loc>43,16.1</loc>
+<url>./tabele.jsp?kraj=212</url>
+<hover> HNL Ozujsko</hover>
+</state>
+
+<state id="point">
+<name>ICELAND</name>
+<loc>64,-21</loc>
+<url>./tabele.jsp?kraj=317</url>
+<hover> Premier League</hover>
+</state>
+
+<state id="point">
+<name>HUNGARY</name>
+<loc>47,19</loc>
+<url>./tabele.jsp?kraj=742</url>
+<hover> Arany Aszok Liga</hover>
+</state>
+<state id="point">
+<name>HUNGARY</name>
+<loc>46.7,20</loc>
+<url>./tabele.jsp?kraj=65</url>
+<hover> Borsodi Liga</hover>
+</state>
+
+
+
+<state id="point">
+<name>BELARUS</name>
+<loc>54.5062874988,6.73788794022</loc>
+<url>./tabele.jsp?kraj=749</url>
+<hover> Premier League</hover>
+</state>
+
+
+<state id="point">
+<name>BULGARIA</name>
+<loc>62.4211400278,22.3426608471</loc>
+<url>./tabele.jsp?kraj=755</url>
+<hover> A PFG</hover>
+</state>
+<state id="point">
+<name>CYPRUS</name>
+<loc>35,33</loc>
+<url>./tabele.jsp?kraj=902</url>
+<hover> 1. Division</hover>
+</state>
+
+
+<state id="point">
+<name>ESTONIA</name>
+<loc>59,24</loc>
+<url>./tabele.jsp?kraj=1039</url>
+<hover> Meistriliiga</hover>
+</state>
+
+<state id="point">
+<name>GREECE</name>
+<loc>37.0000,23.00</loc>
+<url>./tabele.jsp?kraj=1143</url>
+<hover> Super League, playoffs</hover>
+</state>
+<state id="point">
+<name>GREECE</name>
+<loc>38.5000,23.0</loc>
+<url>./tabele.jsp?kraj=1040</url>
+<hover> Football League</hover>
+</state>
+<state id="point">
+<name>GREECE</name>
+<loc>40.000,22.00</loc>
+<url>./tabele.jsp&#191;kraj=208</url>
+<hover> Super League</hover>
+</state>
+
+
+
+
+
+
+
+
+
+<state id="point">
+<name>FRANCE</name>
+<loc>46.63000,3.07000</loc>
+<url>./tabele.jsp?kraj=1196</url>
+<hover> Championnat National</hover>
+</state>
+<state id="point">
+<name>FRANCE</name>
+<loc>44.63000,3.07000</loc>
+<url>./tabele.jsp?kraj=10</url>
+<hover> Ligue 1</hover>
+</state>
+<state id="point">
+<name>FRANCE</name>
+<loc>48.63000,3.07000</loc>
+<url>./tabele.jsp?kraj=207</url>
+<hover> Ligue 2</hover>
+</state>
+
+<state id="point">
+<name>RUSSIA</name>
+<loc>55.75000,40.58000</loc>
+<url>./tabele.jsp?kraj=746</url>
+<hover> First division</hover>
+</state>
+<state id="point">
+<name>RUSSIA</name>
+<loc>55.75000,37.58000</loc>
+<url>./tabele.jsp?kraj=722</url>
+<hover> Premier-Liga Reserves</hover>
+</state>
+<state id="point">
+<name>RUSSIA</name>
+<loc>50.75000,37.58000</loc>
+<url>./tabele.jsp?kraj=3</url>
+<hover> Premier League</hover>
+</state>
+<state id="AL">
+	<name>Albania</name>
+</state>
+<state id="AJ">
+	<name>Azerbaijan</name>
+</state>
+<state id="AM">
+	<name>Armenia</name>
+</state>
+<state id="AN">
+	<name>Andorra</name>
+</state>
+<state id="AU">mol
+	<name>Austria</name>
+</state>
+<state id="AZ">
+	<name>Azores (Pt.)</name>
+</state>
+
+<state id="BO">
+	<name>Belarus</name>
+</state>
+<state id="BE">
+	<name>Belgium</name>
+</state>
+<state id="BU">
+	<name>Bulgaria</name>
+</state>
+<state id="CP">
+	<name>Canary Islands (Sp.)</name>
+</state>
+<state id="CY">
+	<name>Cyprus</name>
+</state>
+<state id="DA">
+	<name>Denmark</name>
+</state>
+<state id="EI">
+	<name>Ireland</name>
+</state>
+<state id="EN">
+	<name>Estonia</name>
+</state>
+<state id="EZ">
+	<name>Czech Republic</name>
+</state>
+<state id="FO">
+	<name>Faroe Islands</name>
+</state>
+<state id="FI">
+	<name>Finland</name>
+</state>
+<state id="FR">
+	<name>France</name>
+</state>
+<state id="GG">
+	<name>Georgia</name>
+</state>
+<state id="GI">
+	<name>Gibraltar (UK)</name>
+</state>
+<state id="GK">
+	<name>Guernsey</name>
+</state>
+<state id="GM">
+	<name>Germany</name>
+</state>
+<state id="GR">
+	<name>Greece</name>
+</state>
+<state id="HR">
+	<name>Croatia</name>
+</state>
+<state id="HU">
+	<name>Hungary</name>
+</state>
+<state id="IC">
+	<name>Iceland</name>
+</state>
+<state id="IM">
+	<name>Isle of Man</name>
+</state>
+<state id="IT">
+	<name>Italy</name>
+</state>
+<state id="JE">
+	<name>Jersey</name>
+</state>
+<state id="JN">
+	<name>Jan Mayen</name>
+</state>
+<state id="LG">
+	<name>Latvia</name>
+</state>
+<state id="LO">
+	<name>Slovakia</name>
+</state>
+<state id="LS">
+	<name>Liechtenstein</name>
+</state>
+<state id="LH">
+	<name>Lithuania</name>
+</state>
+<state id="LU">
+	<name>Luxembourg</name>
+</state>
+
+<state id="ME">
+	<name>Madeira (Pt.)</name>
+</state>
+<state id="MK">
+	<name>Macedonia</name>
+</state>
+<state id="MN">
+	<name>Monaco</name>
+</state>
+	<state id="MT">
+	<name>Malta</name>
+</state>
+<state id="NL">
+	<name>Netherlands</name>
+</state>
+<state id="NO">
+	<name>Norway</name>
+</state>
+<state id="PL">
+	<name>Poland</name>
+</state>
+<state id="PO">
+	<name>Portugal</name>
+</state>
+<state id="RO">
+	<name>Romania</name>
+</state>
+<state id="RS">
+	<name>Russian Federation</name>
+</state>
+<state id="SI">
+	<name>Slovenia</name>
+</state>
+<state id="SM">
+	<name>San Marino</name>
+</state>
+<state id="SP">
+	<name>Spain</name>
+</state>
+<state id="SR">
+	<name>Serbia and Montenegro</name>
+</state>
+<state id="SV">
+	<name>Svalbard</name>
+</state>
+<state id="SW">
+	<name>Sweden</name>
+</state>
+<state id="SZ">
+	<name>Switzerland</name>
+</state>
+<state id="TU">
+	<name>Turkey</name>
+</state>
+<state id="UK">
+	<name>United Kingdom</name>
+</state>
+<state id="UP">
+	<name>Ukraine</name>
+</state>
+<state id="VT">
+	<name>Vatican City</name>
+</state>
+</countrydata>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+
+  <cron>
+    <url>/updateBets?type=0</url>
+    <description>Get next bets</description>
+    <schedule>every day 05:00</schedule>
+    <timezone>America/New_York</timezone>
+  </cron>
+  <cron>
+    <url>/updateBets?type=1</url>
+    <description>Get next bids</description>
+    <schedule>every day 05:30</schedule>
+    <timezone>America/New_York</timezone>
+  </cron>
+
+</cronentries>

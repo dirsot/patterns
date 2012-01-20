@@ -1,0 +1,2 @@
+serviceClass: pl.dirsot.bets.client.GreetingService
+path: A82D59C8B5726876DA1C281917A12869.gwt.rpc
